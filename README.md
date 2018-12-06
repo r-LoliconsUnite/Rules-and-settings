@@ -10,6 +10,7 @@ Note: Old reddit (https://old.reddit.com/r/loliconsunite/) is recommended to use
 
 ## Custom labels
 Post some Lolis
+
 Start a discussion
 
 ## Misc configs
@@ -20,7 +21,7 @@ allow this subreddit to be exposed to users in /r/all, /r/popular, default, and 
 collapse deleted and removed comments: **on**
 
 
-## RES macro
+## RES macro for removals
 Removed for rule 1
 
 If you feel your post didn't break rule 1, you can appeal the removal by [contacting the mods](https://www.reddit.com/message/compose?to=%2Fr%2Floliconsunite)
