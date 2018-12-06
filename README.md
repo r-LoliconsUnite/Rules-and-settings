@@ -18,3 +18,9 @@ wiki: **mod edting**
 allow this subreddit to be exposed to users in /r/all, /r/popular, default, and trending lists: **off**
 
 collapse deleted and removed comments: **on**
+
+
+## RES macro
+Removed for rule 1
+
+If you feel your post didn't break rule 1, you can appeal the removal by [contacting the mods](https://www.reddit.com/message/compose?to=%2Fr%2Floliconsunite)
