@@ -14,5 +14,7 @@ Start a discussion
 
 ## Misc configs
 wiki: **mod edting**
+
 allow this subreddit to be exposed to users in /r/all, /r/popular, default, and trending lists: **off**
+
 collapse deleted and removed comments: **on**
