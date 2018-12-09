@@ -54,6 +54,7 @@ Example: [You're a cutie <3](/spoiler)
 
 ##Additional Info
 * [Useful websites](https://www.reddit.com/r/loliconsunite/comments/8xgp5v/i_am_new_to_the_community_and_was_wondering_what/e23f086/)
+* [Wiki \(FAQs, banner source, modpost archive\)](https://www.reddit.com/r/loliconsunite/wiki/index)
 * Base theme: [Minimaluminiumalism](https://www.reddit.com/r/Minimaluminiumalism/)
 * Banner: u/twenty_characters_su
 * CSS: /u/xdag123, u/twenty_characters_su
